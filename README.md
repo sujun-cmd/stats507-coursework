@@ -1,4 +1,4 @@
-# STATS 507: Data Science Programming with Python
+Jun Su# STATS 507: Data Science Programming with Python
 
 ## Course Description
 
